@@ -17,7 +17,7 @@ Meu primeiro projeto realizado com o apoio da rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
