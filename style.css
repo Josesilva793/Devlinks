@@ -80,10 +80,10 @@ body * {
   transform: translateY(-50%);
   left: 0;
   animation: slide-back 0.2s;
-  }
+}
 
-#switch button:hover{
-  outline: 8px solid var(--highlight-color) ;
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
@@ -173,15 +173,15 @@ ul li a:hover {
     left: 0;
   }
 
-  to{
-    left: 50%
+  to {
+    left: 50%;
   }
 }
 @keyframes slide-back {
   from {
-    left: 50%
+    left: 50%;
   }
-  to{
-    left:0
+  to {
+    left: 0;
   }
 }
