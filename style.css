@@ -48,6 +48,8 @@ body * {
   width: 112px;
   display: block;
   margin: auto;
+  border-radius: 50%;
+  border: white 5px;
 }
 
 #profile p {
